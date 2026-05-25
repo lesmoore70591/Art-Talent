@@ -1,0 +1,6 @@
+{
+  "name": "Artificial & Talentless",
+  "description": "An AI-powered typewriter generating personalized roasts, dad jokes, or cynical affirmations customized to your flaws and quirks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
